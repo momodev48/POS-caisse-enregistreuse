@@ -1,0 +1,15 @@
+.nav.nav-tabs li a {
+    background-color: green;
+    color: white;
+}
+
+.nav.nav-tabs li:not(.active) a {
+    pointer-events: none;
+    background-color: #2554C7;
+    color: white;
+}
+
+.nav.nav-tabs li (.active) a {
+    background-color: red;
+    color: white;
+}

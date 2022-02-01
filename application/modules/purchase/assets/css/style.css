@@ -1,0 +1,41 @@
+.sectionfull{width:100%; float:left;}
+.purchase_d_none{
+    display:none;
+}
+
+.purchase_w_100{
+	width:100%;
+}
+.purchase_outstock{
+  margin: 20px;
+}
+.purchasedit_w_100{
+	width:100%;
+}
+
+.purchase_invoice_left{
+  margin-left:2px;
+}
+
+.purchase_invoice_top{
+   margin-top: 10px;
+}
+.purchasereturnform_w_200{
+   width: 200px;
+}
+.purchasereturnview_mr_20{
+	margin: 20px;
+}
+
+.supplier_dupaid_left{
+	margin-left:2px;
+}
+
+.supplier_ledger_mr_left{
+    margin-left:2px;
+}
+@media print {
+            a[href]:after {
+                content: none !important;
+            }
+        }

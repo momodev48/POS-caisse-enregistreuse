@@ -1,0 +1,8 @@
+@media print {
+    a[href]:after {
+        content: none !important;
+    }
+}
+
+.showcommision-foot .showcommision-total-sale{text-align:right;font-size:14px !Important;}
+.showcommision-foot .showcommision-totalprice{text-align: right;}

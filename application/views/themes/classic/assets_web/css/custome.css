@@ -1,0 +1,65 @@
+.bookinfo{margin-bottom:0 !important;}
+.modal-dialog {
+    max-width: 560px !important;
+}
+.calculate-content .btn {
+   color:#FFF !important;
+}
+.serach{cursor:pointer;}
+.snackbar {
+    visibility: hidden;
+    width: 100%;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    border-radius: 2px;
+    padding: 16px;
+    position: relative;
+    z-index: 9999;
+    bottom: 30px;
+    font-size: 17px;
+	display:none;
+	transition: all 300ms linear 0s;
+}
+
+.show {
+	display:block;
+    visibility: visible !important;
+    -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;
+    animation: fadein 0.5s, fadeout 0.5s 2.5s;
+	
+}
+.header_top .navbar-nav .nav-link .badge {
+    padding: 0;
+	color: #fff;	
+    position: absolute;
+    top: 23px;
+    display: block;
+    font-size: 11px;
+    right: 0px;
+    background: #e7272d;	
+    border-radius: 50px;
+    width: 22px;
+    line-height: 22px;
+    box-shadow: none;
+}
+.header_top .navbar-nav .nav-link:hover .badge{
+	color: #fff;
+}
+
+.map_area{
+    position: relative;
+}
+
+.map_area .simple_btn:before{
+    z-index: 0;
+}
+
+.map_area .simple_btn span{
+    position: relative;
+}
+
+.map, .map iframe, .map img{
+    width: 100%;
+    height: 300px;
+}

@@ -1,0 +1,40 @@
+.nav.nav-tabs li a {
+    background-color: green;
+    color: white;
+}
+
+.nav.nav-tabs li:not(.active) a {
+    pointer-events: none;
+    background-color: #2554C7;
+    color: white;
+}
+
+.nav.nav-tabs li (.active) a {
+    background-color: red;
+    color: white;
+}
+
+.input__holder3 {
+    position: relative;
+    width: 250px;
+}
+
+ul li a {
+    font-size: 12.5px;
+}
+
+.select2-container .select2-selection--single {
+    height: 34px;
+}
+
+@media (min-width: 1400px) {
+    .customcon {
+        width: 100%;
+    }
+}
+
+@media (min-width: 1200px) {
+    .container {
+        width: 1062px;
+    }
+}

@@ -1,0 +1,464 @@
+body{
+	 
+}
+
+.bank_book_margin_20{
+       margin: 20px;
+}
+.acc_cash_adj_mr_top{
+	margin-top: 10px;
+}
+.cash_book_reportname{
+   font:'Times New Roman', Times, serif; 
+   font-size:20px;
+}
+
+.cash_book_lineheight{
+	line-height:120%;
+}
+.cash_book_family{
+	font-family:'Arial';
+}
+
+.cash_book_table_data_color{
+     color:#FFF;
+}
+.cash_book_btn_color{
+    margin: 20px;
+}
+
+.cash_book_search_reportname{
+   font:'Times New Roman', Times, serif; 
+   font-size:20px;
+}
+.cash_book_search_lineheight{
+	line-height:120%;
+}
+
+.cash_book_search_family{
+	font-family:'Arial';
+}
+.cash_book_search_btn_print{
+	border:none; 
+	background:none; 
+	cursor: pointer; 
+	width:80px; 
+	height:20px
+}
+
+.cash_book_search_back_btn{
+   border:none; 
+   background:none; 
+   cursor: pointer; 
+   width:80px; 
+   height:20px;
+}
+
+.cash_book_search_dis_none{
+  display:none;
+}
+
+.cash_book_search_btnback{
+    border:none;
+     background:none; 
+     cursor: pointer; 
+     width:80px; 
+     height:20px;
+}
+
+.cash_flow_report_search_table_body{
+     width:1000px; 
+     float:left;
+}
+
+.cash_flow_re_serach_h2{
+	margin: 0;
+}
+
+.cash_flow_re_serach_ml_10{
+  padding-left:10px;
+}
+
+.cash_flow_re_serach_ml_b{
+	padding-left:10px; 
+	border:1px solid #000;
+}
+
+.cash_flow_re_serach_ml_right{
+padding-left:10px; 
+padding-right:10px;  
+border:1px solid #000;
+}
+.cash_flow_re_serach_border_t{
+  border-top: solid 1px #000;
+}
+.coa_print{
+margin: 20px;
+}
+
+.coa_print_text_align{
+   text-align: left;
+}
+.coa_print_family{
+font:'Times New Roman', Times, serif; 
+font-size:20px;
+
+}
+.contra_voucher_mr_t{
+	margin-top: 10px;
+}
+
+.contra_voucher_w_200{
+  width: 200px;
+}
+
+.contra_voucher_btn_right{
+     text-align: right;
+}
+
+.credit_voucher_mr_t{
+    margin-top: 10px;
+}
+.credit_voucher_w_200{
+	width: 200px;
+}
+
+.credit_voucher_btn_right{
+   text-align: right;
+}
+
+.debit_voucher_mr_t{
+  margin-top: 10px;
+}
+.debit_voucher_w_200{
+	width: 200px;
+}
+.debit_voucher_btn_right{
+	text-align: right;
+}
+
+.general_ledger_report_tble{
+     margin:5px 5px;
+}
+.general_ledger_report_fontfamily{
+font-family:'Arial';
+}
+
+.general_ledger_report_btn{
+	margin: 20px;
+}
+.journal_voucher_mr_t{
+	margin-top: 10px;
+}
+
+.journal_voucher_w_200{
+   width: 200px;
+}
+
+.journal_voucher_btn_right{
+    text-align: right;
+}
+
+.profit_loss_r_search_tr_top{
+   font-size:20px; 
+   font-weight:bold; 
+   border-right:solid 1px #000; 
+   border-left:solid 1px #000; 
+   border-top:solid 1px #000;
+}
+
+
+.profit_loss_r_search_btn{
+  margin: 20px;
+}
+.profit_loss_r_search_border{
+
+border-top: solid 1px #000;
+}
+.profit_loss_report_search_right{
+	 border-left:solid 1px #000; 
+  border-right:solid 1px #000;
+  border-top:solid 1px #000;
+}
+.profit_loss_report_search_font_20{
+font-size:20px;
+}
+ .profit_loss_report_search_font_bl_bt{
+  font-size:18px; 
+  border-left:solid 1px #000; 
+  border-top:solid 1px #000;
+ }
+.profit_loss_report_search_bg{
+ font-size:18px; 
+ border-left:solid 1px #000;
+ border-right:solid 1px #000;
+ border-top:solid 1px #000;
+
+}
+.profit_loss_report_search_b_none{
+border-style: double;
+border-left: none;
+border-right:none; 
+border-top:none;
+}
+.profit_loss_report_search_b_right {
+	border-left:solid 1px #000;
+    border-bottom:solid 1px #000; 
+    border-top:solid 1px #000; 
+}      
+
+.supplier_payment_form_dnone{
+   display:none;
+}
+.supplier_payment_form_w_100{
+    width:100%;
+}
+       
+.supplier_payment_form_mr_t{
+    margin-top: 10px;
+}                
+.supplier_payment_form_mr_w_200px{
+     width: 200px;
+}
+
+
+.supplier_payment_receipt_td{
+border-bottom:2px #333 solid;
+}
+.supplier_payment_receipt_f_17{	
+font-size: 17pt;
+}
+.supplier_payment_receipt_f_family{
+margin:0;
+font-family:Arial,Helvetica,sans-serif;
+border-bottom:1
+}
+.supplier_payment_receipt_f_tp{
+margin-top:10px;
+float:right;
+width:30%;
+text-align:center;
+border-top:1px solid #e4e5e7;
+}
+
+.trial_balance_with_opening_btn{
+	margin: 20px;
+}
+.trial_balance_with_opening_border{
+
+border-top: solid 1px #000;
+}
+
+.trial_balance_with_opening_mrt_50{
+   margin-top: 50px;
+}
+.trial_balance_with_opening_mrt_left_right{
+border-left: solid 1px #000; 
+border-bottom: solid 1px #000; 
+border-right: solid 1px #000; 
+border-top: solid 1px #000;
+
+}
+.trial_balance_with_opening_mrt_left_rr{
+    border-left: solid 1px #000;
+     border-bottom: solid 1px #000; 
+     border-top: solid 1px #000;	
+}
+.trial_balance_with_opening_mrt_bl_bb_bt{
+	border-left: solid 1px #000;
+ border-bottom: solid 1px #000; 
+ border-top: solid 1px #000;
+}
+
+.trial_balance_with_opening_mrt_bg_corbr{
+
+border-left: solid 1px #000; 
+border-right: solid 1px #000; 
+border-top: solid 1px #000;
+}
+.trial_balance_with_opening_mrt_s{
+	border-left: solid 1px #000;
+ border-top: solid 1px #000;
+}
+.trial_balance_with_opening_mrt_sbottom{
+border-left: solid 1px #000; 
+border-right: solid 1px #000;
+ border-top: solid 1px #000;	
+}
+
+.trial_balance_with_opening_mrt_tbl_t{
+	border-left: solid 1px #000; 
+border-top: solid 1px #000;
+}
+
+.t_b_w_o_solid{
+  border-right: solid 1px #000;
+}
+.trial_balance_with_opening_all_b{
+
+border-left: solid 1px #000; border-top: solid 1px #000;
+}
+.trial_balance_with_opening_all_b_t{
+border-left: solid 1px #000; border-right: solid 1px #000; border-top: solid 1px #000;
+}
+
+.trial_balance_with_opening_as_tp{
+  padding: 5px;
+}
+
+.trial_balance_with_opening_as_h3{
+font-size:18px;
+}
+
+
+
+
+.vouchar_cash_tobody{
+    font:'Times New Roman', Times, serif; 
+    font-size:20px;
+}
+.vouchar_cash__btn{
+margin: 20px;
+}
+
+
+.update_journal_voucher_mr_top{
+	margin-top: 10px;
+}
+
+.update_journal_voucher_w_200{
+width: 200px;
+}
+
+.update_journal_voucher_btn{
+  text-align: right;
+}
+
+.update_dbt_crtvoucher_mr_tp{
+margin-top: 10px;
+}
+
+.update_dbt_crtvoucher_w_200{
+width: 200px;
+}
+
+.update_dbt_crtvoucher_btn{
+  text-align: right;
+}
+
+.update_credit_bdtvoucher_mr_tp{
+margin-top: 10px;
+}
+
+.update_credit_bdtvoucher_w_200{
+width: 200px;
+}
+
+.update_credit_bdtvoucher_btn{
+  text-align: right;
+}
+
+.update_contra_voucher_mr_tp{
+margin-top: 10px;
+}
+
+.update_contra_voucher_w_200{
+width: 200px;
+}
+
+.update_contra_voucher_btn{
+  text-align: right;
+}
+
+.trial_balance_without_opening_tp{
+
+border-left: solid 1px #000; border-top: solid 1px #000;
+}
+.trial_balance_without_opening_tb_r{
+
+border-right: solid 1px #000;
+}
+.trial_balance_without_opening_tb_l_s{
+	border-left: solid 1px #000; 
+	border-top: solid 1px #000;
+}
+
+.trial_balance_without_opening_Right{
+
+border-left: solid 1px #000; border-bottom: solid 1px #000; border-top: solid 1px #000;
+}
+
+.trial_balance_without_opening_Rights{
+	border-left: solid 1px #000; 
+border-bottom: solid 1px #000; 
+border-right: solid 1px #000; 
+border-top: solid 1px #000;
+}
+
+.trial_balance_without_opening_right_50px{
+margin-top: 50px;
+}
+
+.trial_balance_without_openingpx{
+
+border-top: solid 1px #000;
+}
+.trial_balance_without_openingpxbtn{
+margin: 20px;
+}
+.trial_balance_without_openingpxbtn_font_family{
+font-size:18px;
+}
+.trial_balance_without_openingpxbtn__border{
+	border-left: solid 1px #000; 
+border-right: solid 1px #000; 
+border-top: solid 1px #000;
+}
+.profit_loss_report_search_b_rights{
+     border:solid 1px #000;
+}
+
+
+.cash_flow_re_serach_ml_rightalign{
+
+padding-right:10px; border-top: solid 1px #000; border-bottom: solid 1px #000;
+}
+
+.cash_flow_re_serach_ml_leftalign{
+ padding-left:10px;padding-right:10px;
+}
+.cash_flow_re_serach_ml_underline{
+	padding-left:10px;
+text-decoration:underline;
+}.cash_flow_re_serach_ml_underline_top{
+	border-top: solid 1px #000;
+}
+
+.cash_flow_re_serach_ml_underline_tr{
+text-decoration:overline;
+}
+.cash_flow_re_serach_ml_underline_print_bnt{
+ margin: 20px;
+}
+
+.cash_flow_re_serach_ml_underline_10px_left{
+padding-left:10px;
+}
+.cash_flow_re_serach_ml_underline_10px_right{
+padding-right:10px; border-left:solid 1px #000; border-right:solid 1px #000;	
+}
+.cash_flow_re_serach_ml_underline_10px_right_bpa{
+	padding-right:10px; border-top: solid 1px #000; border-bottom: solid 1px #000;
+}
+
+.cash_flow_re_serach_ml_underline_10px_right_bpamr_tp{
+
+margin-top: 50px;
+}
+.cash_flow_re_serach_ml_underline_10px_right_bpamr_decoration{
+
+padding-left:10px;text-decoration:underline;
+}
+.cash_flow_re_serach_ml_underline_10px_right_bpamr_decorationdfdf{
+	padding-right:10px;
+}

@@ -1,0 +1,36 @@
+body{
+	 
+}
+.showhide{display:none;}
+.cattooltipsimg{position: absolute;right: 20px;top:0; color:#000;}
+.cattooltipsimg:hover{color:#000;}
+.cattooltips{position: absolute;right:0px;top: 8px; color:#000;}
+.cattooltips:hover{color:#000;}
+.bolden{font-weight: bolder; font-size:16px;}
+
+.add_cat_img_item{
+    height: 150px;
+    width: 200px;
+} 
+
+.itemmanage_box_header{
+   display: flex;align-items: center;
+   justify-content: space-between;
+}
+
+.itemmanage_box_w_100{
+    width:100px;
+}
+.itemmanage_box_w_25{
+	width:25px;
+}
+.itemmanage_box_w{
+	cursor:pointer;
+}
+.availabledit_padding_right{
+   padding-right:0;
+}
+.add_cat_img_item_bg{
+height: 150px;width: 200px;
+background: rgb(0,0,0,0.4);	
+}

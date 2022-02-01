@@ -1,0 +1,5 @@
+	.placeHolder div { background-color:white!important; border:dashed 1px gray !important; }
+	.boxpad{padding:20px;float:left;}
+
+	#gallery{min-height:400px;}
+	#gallery img{height: 60px;width: 60px;}

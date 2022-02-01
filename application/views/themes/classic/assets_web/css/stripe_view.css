@@ -1,0 +1,24 @@
+
+.panel-title {
+display: inline;
+font-weight: bold;
+}
+.display-table {
+    display: table;
+}
+.display-tr {
+    display: table-row;
+}
+.display-td {
+    display: table-cell;
+    vertical-align: middle;
+    width: 61%;
+}
+#form-container {
+    position: relative;
+    width: 450px;
+    margin: 0 auto;
+    top: 50%;
+    transform: translateY(-50%);
+	padding:20px 0;
+}

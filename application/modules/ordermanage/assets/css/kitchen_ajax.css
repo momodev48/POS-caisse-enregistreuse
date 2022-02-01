@@ -1,0 +1,60 @@
+@charset "utf-8";
+/* CSS Document */
+.arrow-kitchen {
+		color: #e64545;
+		background: #ffffff;
+		line-height: 30px;
+		width: 30px;
+		text-align: center;
+		font-size: 16px;
+		border-radius: 50%;
+		box-shadow: 0 0 12px rgba(0,0,0,0.4);
+	}
+	.hidden-kitem{
+		position: absolute;
+		left: 0;
+		top: 0;
+		background: #fff;
+		width: 100%;
+		z-index: 2;
+		transition-duration: 0.4s;
+		opacity: 0;
+		box-shadow: 0 0 12px rgba(0,0,0,0.24);
+		max-height: 380px;
+    	overflow-y: scroll;
+	}
+	
+	.hidden-kitem.active{
+		top: 100%;
+		opacity: 1;
+		z-index: 4;
+	}
+	
+	.rotate {
+		-moz-transition: all .3s linear;
+		-webkit-transition: all .3s linear;
+		transition: all .3s linear;
+	}
+	.rotate.left {
+		-moz-transform:rotate(-180deg);
+		-webkit-transform:rotate(-180deg);
+		transform:rotate(-180deg);
+	}
+	.circle-openk{position:absolute;left: 50%;bottom: -12px;transform: translateX(-50%);z-index: 3;}
+	.kitchen-tab .single_item .quantity {
+    margin: 0;
+    font-size:16px;
+}
+::-webkit-scrollbar {
+  width: 5px;
+}
+::-webkit-scrollbar-track {
+  background: #f1f1f1; 
+}
+::-webkit-scrollbar-thumb {
+  background: #888; 
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555; 
+}

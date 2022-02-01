@@ -1,0 +1,13 @@
+ul.dt-button-collection.dropdown-menu {
+	z-index:99999;
+}
+.select2-container {
+    width: auto !important;
+}
+
+#ctypeoption{width:auto!important;}
+#mysreport{padding: 5px;}
+.print-salerpform2{padding: 5px;}
+#purchase_div{margin-left:2px;}
+.salereportfrm2-foot .center-cell{text-align:center;}
+.salereportfrm2-foot .right-cell{text-align:right;}

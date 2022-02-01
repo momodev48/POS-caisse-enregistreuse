@@ -1,0 +1,10 @@
+@media print {
+    a[href]:after {
+        content: none !important;
+    }
+}
+
+.servicechargewisereport .service_charge{text-align: right;}
+
+.servicechargewisereport-foter .total_sale{text-align:right;font-size:14px !Important;}
+.servicechargewisereport-foter .totalprice{text-align: right;}

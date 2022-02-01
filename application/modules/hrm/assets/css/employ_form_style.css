@@ -1,0 +1,121 @@
+.rounded-4 {
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+}
+
+.error {
+    display: none;
+    background-color: #ff8181;
+
+    color: #fff;
+
+    outline: none;
+
+}
+
+
+
+.error-hide {
+    opacity: 0;
+    display: none;
+    -webkit-transition: opacity 0.7s;
+    -moz-transition: opacity 0.7s;
+    transition: opacity 0.7s;
+}
+
+.error-show {
+    opacity: 1;
+    display: block;
+    -webkit-transition: opacity 0.5s;
+    -moz-transition: opacity 0.5s;
+    transition: opacity 0.5s;
+}
+
+.input__holder3 {
+    position: relative;
+    width: 250px;
+}
+
+input__holder {
+    position: relative;
+    width: 300px;
+}
+
+.input__holder2 {
+    position: relative;
+    width: 450px;
+}
+
+.form__input {
+    border-width: 1px;
+    border-style: solid;
+    border-color: #989898;
+    width: 300px;
+    line-height: 28px;
+    color: #989898;
+
+    outline: none;
+
+    display: block;
+}
+
+.form__input--red {
+    border-width: 2px;
+    border-style: solid;
+    border-color: #ff797f;
+}
+
+.input__error {
+    display: none;
+    position: absolute;
+    right: 11px;
+    top: 12px;
+    background-color: #ff797f;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    color: #fff;
+    line-height: 20px;
+    font-weight: 700;
+    font-size: 14px;
+    -moz-border-radius: 50%;
+    webkit-border-radius: 50%;
+    border-radius: 50%;
+}
+
+.nav.nav-tabs li a {
+    background-color: green;
+    color: white;
+}
+
+.nav.nav-tabs li:not(.active) a {
+    pointer-events: none;
+    background-color: #2554C7;
+    color: white;
+}
+
+.nav.nav-tabs li (.active) a {
+    background-color: red;
+    color: white;
+}
+
+ul li a {
+    font-size: 13px;
+}
+
+.select2-container .select2-selection--single {
+    height: 34px;
+}
+
+@media (min-width: 1400px) {
+    .customcon {
+        width: 100%;
+    }
+}
+
+@media (min-width: 1200px) {
+    .container {
+        width: 1062px;
+    }
+}

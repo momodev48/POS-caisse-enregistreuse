@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+
+@media(max-width:400px){
+.col-xlg-2{
+	width:100%;
+	}
+}
+@media(min-width:1200px){
+.col-xlg-2{
+	width:20%;
+	}
+}
+@media(min-width:1500px){
+.col-xlg-2{
+	width:16.6666666666666%;
+	}
+}

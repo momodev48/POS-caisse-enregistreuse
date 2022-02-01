@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+
+@page  
+{ 
+    size: auto;   /* auto is the initial value */ 
+
+    /* this affects the margin in the printer settings */ 
+    margin: 0mm 0 0mm 0;  
+} 
+
+body  
+{ 
+    /* this affects the margin on the content before sending to printer */ 
+    margin: 0px;  
+} 
+@media screen {
+    .header, .footer {
+        display: none;
+    }
+}

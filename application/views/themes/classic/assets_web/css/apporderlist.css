@@ -1,0 +1,107 @@
+
+.ml-6 {
+    margin-left: 6px;
+}
+
+.full-width {
+    width: 100%;
+}
+
+.item-add-ons {
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+}
+
+.item-add-ons .checkbox {
+    display: flex;
+    align-items: baseline;
+}
+
+.item-add-ons:last-child {
+    border-bottom: 0;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+.item-add-ons label {
+    font-size: 14px;
+}
+
+.item-add-ons .cart_counter {
+    border-radius: 4px;
+    position: relative;
+}
+
+.item-add-ons .cart_counter .qty {
+    padding-right: 22px;
+    width: 68px;
+    border-radius: 4px;
+    height: 30px;
+    text-align: left;
+    padding-left: 9px;
+    color: #6d6d6d;
+    font-size: 14px;
+}
+
+.item-add-ons .cart_counter .items-count {
+    position: absolute;
+    right: -2px;
+    line-height: 15px;
+    padding: 0 4px;
+    border: 0;
+    font-size: 8px;
+}
+
+.item-add-ons .cart_counter .items-count:hover,
+.item-add-ons .cart_counter .items-count:focus {
+    background: transparent;
+    color: #04be51;
+}
+
+.item-add-ons .cart_counter .items-count.increase {
+    top: 2px;
+}
+
+.item-add-ons .cart_counter .items-count.reduced {
+    bottom: 2px;
+}
+
+.modal-addons .simple_btn {
+    background: #04be51;
+    color: #fff;
+    padding: 0 25px;
+    border-radius: 25px;
+    line-height: 35px;
+    margin-top: 0;
+}
+
+.btn-xs {
+    padding: 4px;
+    line-height: 1;
+}
+
+.cart_list li h6 {
+    margin-bottom: 0;
+    font-size: 14px;
+    max-width: initial;
+}
+
+.text-nowrap {
+    border: none;
+    display: inline-table;
+}
+
+
+.apporderlist_pointer{
+	cursor: pointer;
+}
+
+.apporder_list_center{
+	text-align: center; 
+	font-size: 25px;
+}
+
+.apporedrlist_fff{
+   color: #fff;
+}

@@ -1,0 +1,21 @@
+.panel-title {
+display: inline;
+font-weight: bold;
+}
+.display-table {
+    display: table;
+}
+.h3-padding{
+    padding-left:10px; 
+	}
+.margin-bottom{
+        margin-bottom: 10px;
+    }
+.display-tr {
+    display: table-row;
+}
+.display-td {
+    display: table-cell;
+    vertical-align: middle;
+    width: 100%;
+}

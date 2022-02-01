@@ -1,0 +1,204 @@
+@media(max-width: 1199px){
+    .offer_slider .owl-stage-outer{
+        padding: 0;
+    }
+    .office_address{
+        padding: 80px 30px;
+    }
+    .office_address h2{
+        font-size: 25px;
+    }
+    .office_address address,
+    .office_address a{
+        font-size: 15px;
+    }
+    .main_slider .item .item_caption{
+        width: 80%;
+    }
+    .owl-nav .owl-next,
+    .owl-nav .owl-prev{
+        background: #ddd;
+        width: 35px;
+    }
+    .owl-nav{
+        top: 50%;
+    }
+    .owl-nav .owl-next i,
+    .owl-nav .owl-prev i{
+        color: #04be51;
+    }
+    .owl-nav .owl-prev{
+        left: 0;
+    }
+    .owl-nav .owl-next{
+        right: 0;
+    }
+    .footer-menu{
+        display: none;
+    }
+}
+@media(max-width: 991px){
+    .offer_slider .owl-stage-outer {
+        padding: 0; 
+    }
+    .office_address{
+        display: none;
+    }
+    .menu_area .sect_title p{
+        margin: 0;
+    }
+    .menu_slider .owl-nav .owl-prev{
+        left: auto;
+        right: 45px;
+    }
+    .menu_slider .owl-nav .owl-next{
+        left: auto;
+        right: 0;
+    }
+    .search_box{
+        top: 0;
+    }
+    .header_top{
+        position: relative;
+        border: 0;
+        background: #1d1d1d;
+    }
+    .page_header{
+        padding-top: 0;
+    }
+    .product-details-inner .social-links{
+        text-align: left;
+        margin-top: 10px;
+    }
+    .rating-position{
+        padding-top: 25px;
+    }
+    .review-content,
+    .review-block{
+        width: 100%;
+    }
+    .footer_widget h4{
+        margin: 0 0 35px;
+    }
+}
+@media(max-width: 767px){
+    .menu_img {
+        margin-top: 0;
+        position: relative;
+        right: 0;
+        top: 0;
+        width: 100%;
+    }
+    .menu_info{
+        width: 100%;
+        padding: 40px 25px;
+    }
+    .main_slider .item .item_caption{
+        width: 80%;
+        max-width: 100%;
+    }
+    .main_slider .item .item_caption h2,
+    .main_slider .item_caption .curve_title{
+        font-size: 30px;
+    }
+    .main_slider .item .item_caption a{
+        font-size: 12px;
+        line-height: 25px;
+        width: 110px;
+    }
+    .product-details-inner .product_img{
+        margin-bottom: 20px;
+    }
+    .product_review_left:before{
+        right: auto;
+        left: -30px;
+    }
+    .product_review_right{
+        padding: 20px 0;
+    }
+    .product_review_inner {
+        padding-left: 30px;
+    }
+    .sect_pad{
+        padding: 50px 0;
+    }
+    .sect_pad2{
+        padding: 50px 0 25px;
+    }
+    .sect_pad3{
+        padding: 50px 0 0;
+    }
+}
+@media(max-width: 575px){
+    .about_us .img_part{
+        text-align: center;
+    }
+    .offer_inner{
+        margin: 0 15px;
+    }
+    .newsletter_area h2{
+        font-size: 25px;
+    }
+    .newsletter_area .form-control,
+    .newsletter_area .btn{
+        padding: 0 12px;
+        font-size: 14px;
+    }
+    .progress{
+        width: 150px;
+    }
+    .menu_area .single_item{
+        margin: 0;
+    }
+    .menu_area .item_details{
+        padding: 15px !important;
+    }
+    .menu_area .item_img,
+    .menu_area .item_details{
+        text-align: center;
+    }
+    .page_header_content h1,
+    .sect_title .big_title{
+        font-size: 25px;
+    }
+    .sect_title .curve_title, 
+    .main_slider .item_caption .curve_title{
+        font-size: 30px;
+    }
+    .page_header_content a{
+        font-size: 14px;
+    }
+    .simple_btn{
+        font-size: 13px;
+        margin-top: 15px;
+        padding: 0 15px;
+        line-height: 30px;
+    }
+    .menu_area .sect_title .big_title{
+        padding-bottom: 15px;
+        margin-bottom: 15px;
+    }
+    .review-block-rate{
+        display: block;
+    }
+    .bg_img_left{
+        top: -22px;
+        left: -30px;
+    }
+    .modal-dialog {
+        margin: 100px 15px 20px;
+    }
+}
+@media (max-width: 460px){
+    .main_slider .item .item_caption{
+        width: 100%;
+    }
+    .main_slider .item .item_caption h3,
+    .main_slider .item .item_caption h2{
+        line-height: 1;
+    }
+    .main_slider .item .item_caption h2{
+        margin: 15px 0;
+        font-size: 20px;
+    }
+}

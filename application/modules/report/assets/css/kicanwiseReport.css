@@ -1,0 +1,10 @@
+ @media print {
+    a[href]:after {
+        content: none !important;
+    }
+}
+
+.kicanwisereport .kicanwisereport-head-cell{text-align: right;}
+
+.kicanwisereport-foot .kicanwisereport-first-cell{text-align:right;font-size:14px !Important;}
+.kicanwisereport-foot .kicanwisereport-sec-cell{text-align: right;}

@@ -1,0 +1,9 @@
+@media print {
+    a[href]:after {
+        content: none !important;
+    }
+}
+
+.cash-report-footer .cash-report-total{text-align:right;font-size:14px !Important;}
+.cash-report-footer .cash-totalopen{text-align: right;}
+.cash-report-footer .cash-totalclose{text-align: right;}

@@ -1,0 +1,176 @@
+.display-none {
+    display: none;
+}
+
+.width-100 {
+    width: 100%;
+}
+
+.width-300-px {
+    width: 300px;
+}
+
+.width-400-px {
+    width: 400px
+}
+
+.height-200-px {
+    height: 200px
+}
+
+.height-280-px {
+    height: 280px
+}
+
+.bgc-c-green-white {
+    background-color: green;
+    color: white
+}
+
+.mt-50 {
+    margin-top: 50px
+}
+
+.color-green {
+    color: green
+}
+
+.atnview-clock {
+    font-size: 25px;
+    color: #4b0026;
+    margin-bottom: 50px;
+}
+
+.att_reportview-css1 {
+    color: #3D9970;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: Stencil Std,
+        fantasy;
+    font-variant: small-caps
+}
+
+.att_reportview-css2 {
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: cursive
+}
+
+.att_reportview-css3 {
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Comic Sans MS',
+        'cursive'
+}
+
+.cv-css1 {
+    text-align: center;
+    font-size: 25px
+}
+
+.star-color {
+    color: #F39C12
+}
+
+.margin-0 {
+    margin: 0;
+}
+
+.profile-height-width {
+    height: 150px;
+    width: 200px
+}
+
+.width-395-px {
+    width: 395px;
+}
+
+.width-617-px {
+    width: 617px;
+}
+
+.width-260-px {
+    width: 260px
+}
+
+.loandetailsview-css1 {
+    color: #191970;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: Stencil Std,
+        fantasy;
+    font-variant: small-caps
+}
+
+.loanreport-css1 {
+    color: #3D9970;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: Stencil Std,
+        fantasy;
+    font-variant: small-caps
+}
+
+.loanreport-css2 {
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: cursive
+}
+
+.loanreport-css3 {
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Comic Sans MS',
+        'cursive'
+}
+
+.other_leave_application_form-css1 {
+    color: red;
+    padding-right: 10px;
+}
+
+.width-615-px {
+    width: 615px
+}
+
+.text-center {
+    text-align: center;
+}
+
+.salary-setup-form-css1 {
+    text-decoration: underline;
+    font-weight: bold;
+    padding-top: 20px
+}
+
+.padding-10-px {
+    padding: 10px
+}
+
+.salary-setup-form-css2 {
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.update-atn-css1 {
+    font-size: 100px;
+    color: green
+}
+
+.weeklyform-css1 {
+    font-size: 20px;
+    color: green
+}
+
+.font-size-25 {
+    font-size: 25px;
+}
+
+.weeklyform-css2 {
+    list-style-type: none;
+    margin-left: 150px
+}

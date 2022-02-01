@@ -1,0 +1,13 @@
+@media print {
+    a[href]:after {
+        content: none !important;
+    }
+}
+
+.ajaxsalereportunpaid .order_id{text-align: right;}
+.ajaxsalereportunpaid .total_amount{text-align: right;}
+.ajaxsalereportunpaid .margeorder{text-align: right;background:none; padding:0;}
+.ajaxsalereportunpaid .radio-shape{margin-right:0;}
+
+.ajaxsalereportunpaid-footer .ajaxsalereportunpaid-fo-total-sale{text-align:right;font-size:14px !Important;}
+.ajaxsalereportunpaid-footer .fo-total-sale{text-align: right;}

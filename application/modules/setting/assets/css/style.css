@@ -1,0 +1,32 @@
+body{
+	 
+}
+
+.phrase-edit-list{width:6%;}
+.phrase-edit-phrase{width:30%;}
+.phrase-edit-label{width:40%;}
+
+.sms-form .panel-body p{
+	background: lightyellow; padding: 1em; box-shadow: 1px 3px 5px #0004; border-radius: 5px; cursor:alias;
+}
+
+.sms-template-warning p{border-radius: 5px; background: lightyellow; padding:1em; text-transform: capitalize; box-shadow: 1px 3px 5px #0004;}
+
+.bank-ledger{margin-left:2px;}
+.bank-ledger .table-responsive{margin-top: 10px;}
+.customer-list .modal-header{background-color:green;color:white;}
+.customer-list .modal-body .container{margin-top:50px;}
+
+.reset-system-alert p{color:#8a4246;background-color:#ffedb6;border: 2px dotted #ffd479;;border-radius:5px;padding:15px;margin-bottom:20px;}
+.reset-system-b{padding-right:0;}
+
+.serversetting-local-url{background: #f4f4f4;padding-top: 15px;margin-right: 2%;}
+.serversetting-local-url img{width:100%;}
+.serversetting-waiter-app{background: #f4f4f4;padding-top: 15px;margin-right: 2%;}
+.serversetting-waiter-app img{width:100%;}
+.serversetting-cusotomer-app{padding-top:0px;}
+.serversetting-cusotomer-app .app-playstore{font-size:16px; padding-bottom:20px; font-weight:600;}
+
+.table-updt-files{position:relative;}
+.table-updt-files .input-file{position:absolute;z-index:2;top:0;left:0;filter: alpha(opacity=0);-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";opacity:0;background-color:transparent;color:transparent;}
+.tablelist-img{height: 60px;width: 60px;}

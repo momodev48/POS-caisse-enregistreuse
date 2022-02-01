@@ -1,0 +1,43 @@
+.nav-tabs>li>a {
+    background: #4682B4;
+    border-radius: 4px 4px 0 0;
+    color: #ffffff;
+}
+
+.nav-tabs>li>a:active {
+
+    color: #ffffff;
+}
+
+.nav-tabs>li.active>a,
+.nav-tabs>li.active>a:focus,
+.nav-tabs>li.active>a:hover {
+    background: #0e0d0d;
+    color: #ffffff;
+}
+
+.nav-tabs>li>a:hover {
+    background: #0e0d0d;
+    border-radius: 4px 4px 0 0;
+    color: #ffffff;
+}
+
+.ui-state-active a,
+.ui-state-active a:link,
+.ui-state-active a:visited {
+    color: #ffff00;
+}
+
+.ui-widget.ui-widget-content {
+    border: 0px;
+}
+
+.ui-widget-header {
+    border: 0;
+
+}
+
+img {
+    height: 150px;
+    width: 150px;
+}

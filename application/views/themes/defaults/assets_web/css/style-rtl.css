@@ -1,0 +1,127 @@
+@media (min-width: 992px){
+    .navbar-expand-lg .navbar-nav {
+        flex-direction: row-reverse;
+    }
+    .navbar-expand-lg .navbar-nav .dropdown-menu{
+        right: 0;
+    }
+}
+.ml-auto{
+    margin-left: 0 !important;
+}
+.rating-quantity{
+    margin-right: 0;
+    margin-left: 10px;
+}
+.review-block,
+.footer-init,
+.menu_info,
+.review-content{
+    margin-left: auto;
+}
+.cart-content .img-box{
+    margin-right: auto;
+}
+.cart-content .img-box{
+    margin-left: 10px;
+}
+.cart-totals .totals-item,
+.rating-dimension{
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -o-flex;
+    display: flex;
+}
+.navbar-expand-lg,
+.card-body, 
+.form-row, 
+.input-group, 
+.row, 
+.menu_area .form-inline,
+.newsletter_area .newsletter-form,
+.page_header_content ul,
+.rating-dimension,
+.cart-totals .totals-item,
+.modal-header,
+.modal-footer{
+    flex-direction: row-reverse;
+}
+.search_box .card .form-control, 
+.newsletter_area .form-control,
+.form-control{
+    text-align: right;
+}
+.footer-menu ul,
+.user-rating,
+.cart-totals .totals-item .totals-value,
+.cart-content .delete_box{
+    text-align: left;
+}
+.progress{
+    margin-top: 8px;
+}
+.metismenu .arrow,
+.cd-top, 
+.menu_img, 
+.header_top .navbar-nav .nav-link .badge,
+.navbar-expand-lg .navbar-nav .dropdown-menu.cart_box,
+.product_review_left:before{
+    right: auto;
+}
+.sidebar-nav{
+    right: -100%;
+}
+.sidebar-nav.active{
+    right: 0;
+    left: auto;
+}
+.menu_slider .owl-nav,
+.product_review_right:before{
+    left: auto;
+}
+.product_review_right:before{
+    right: -30px;
+}
+.menu_slider .owl-nav{
+    right: -120px;
+}
+.product_review_left:before{
+    left: -4px;
+}
+.metismenu .arrow,
+.menu_img{
+    left: 0;
+}
+#dismiss{
+    left: 30px;
+}
+.cd-top{
+    left: 35px;
+}
+.rating:not(:checked) > label{
+    float: left;
+}
+.rating{
+    float: right;
+}
+.page_header_content li i{
+    transform: rotate(180deg);
+}
+select{
+    background-position: left 0rem center;
+}
+p,
+select,
+.calculate-content .form-control,
+.footer-area p{
+    direction: rtl;
+}
+.metismenu > li > ul {
+    padding-left: 0;
+    padding-right: 20px;
+}
+.header_top .navbar-nav .nav-link .badge {
+	left:-6px;
+	
+	}

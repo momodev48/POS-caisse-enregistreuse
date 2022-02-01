@@ -1,0 +1,145 @@
+.ml-6 {
+    margin-left: 6px;
+}
+
+.full-width {
+    width: 100%;
+}
+
+.item-add-ons {
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+}
+
+.item-add-ons .checkbox {
+    display: flex;
+    align-items: baseline;
+}
+
+.item-add-ons:last-child {
+    border-bottom: 0;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+.item-add-ons label {
+    font-size: 14px;
+}
+
+.item-add-ons .cart_counter {
+    border-radius: 4px;
+    position: relative;
+}
+
+.item-add-ons .cart_counter .qty {
+    padding-right: 22px;
+    width: 68px;
+    border-radius: 4px;
+    height: 30px;
+    text-align: left;
+    padding-left: 9px;
+    color: #6d6d6d;
+    font-size: 14px;
+}
+
+.item-add-ons .cart_counter .items-count {
+    position: absolute;
+    right: -2px;
+    line-height: 15px;
+    padding: 0 4px;
+    border: 0;
+    font-size: 8px;
+}
+
+.item-add-ons .cart_counter .items-count:hover,
+.item-add-ons .cart_counter .items-count:focus {
+    background: transparent;
+    color: #04be51;
+}
+
+.item-add-ons .cart_counter .items-count.increase {
+    top: 2px;
+}
+
+.item-add-ons .cart_counter .items-count.reduced {
+    bottom: 2px;
+}
+
+.modal-addons .simple_btn {
+    background: #04be51;
+    color: #fff;
+    padding: 0 25px;
+    border-radius: 25px;
+    line-height: 35px;
+    margin-top: 0;
+}
+
+/* New Css */
+.act-icon {
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -o-flex;
+    display: flex;
+    align-items: center;
+}
+
+.searchIcon {
+    font-size: 15px;
+}
+
+.search_filter .form-control {
+    border: 1px solid #ddd;
+    font-size: 13px;
+    border-radius: 0;
+}
+
+.search_filter .search_box {
+    font-size: 12px;
+    transition: all linear 300ms;
+
+}
+
+.search_filter .btn-search {
+    color: #222;
+    background-color: transparent;
+    border-color: #ddd;
+    border-radius: 0;
+    font-size: 12px;
+}
+
+.searchIcon .btn-search.close_icon i {
+    font-size: 10px;
+}
+
+.search_filter .btn-search:focus {
+    color: #fff;
+    background-color: #222;
+    border-color: #222;
+}
+
+.searchIcon i {
+    color: #fff;
+}
+
+.search_filter {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    padding: 18px 0 12px;
+    margin: 0;
+    background: #fff;
+    transform: translateY(-70px);
+    transition: all linear 300ms;
+}
+
+.search_filter.active {
+    transform: translateY(0);
+}
+
+.search_filter.active .search_box {
+    height: auto;
+    transform: scaleY(1);
+}

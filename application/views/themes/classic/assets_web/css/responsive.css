@@ -1,0 +1,406 @@
+@media(max-width: 1199px) {
+    .hidden-lg{
+        display: none;
+    }
+    .offer_slider .owl-stage-outer {
+        padding: 0;
+    }
+
+    .office_address {
+        padding: 80px 30px;
+    }
+
+    .office_address h2 {
+        font-size: 25px;
+    }
+
+    .office_address address,
+    .office_address a {
+        font-size: 15px;
+    }
+
+    .main_slider .item .item_caption {
+        width: 80%;
+    }
+
+    .owl-nav .owl-next,
+    .owl-nav .owl-prev {
+        background: #ddd;
+        width: 35px;
+    }
+
+    .owl-nav {
+        top: 50%;
+    }
+
+    .owl-nav .owl-next i,
+    .owl-nav .owl-prev i {
+        color: #e7272d;
+    }
+
+    .owl-nav .owl-prev {
+        left: 0;
+    }
+
+    .owl-nav .owl-next {
+        right: 0;
+    }
+    
+    .contact_form {
+        padding: 30px 0;
+    }
+
+    .footer-menu {
+        display: none;
+    }    
+
+    @keyframes rotateAnim {
+        50% {
+            transform: rotate(20deg)
+        }
+    }
+}
+
+@media(max-width: 991px) {
+    .show-lg {
+        display: none;
+    }
+
+    .offer_slider .owl-stage-outer {
+        padding: 0;
+    }
+
+    .office_address {
+        display: none;
+    }
+
+    .reservation-inner {
+        padding: 70px 0;
+    }
+
+    .menu_area .sect_title p {
+        margin: 0;
+    }
+
+    .menu_slider .owl-nav .owl-prev {
+        left: auto;
+        right: 45px;
+    }
+
+    .menu_slider .owl-nav .owl-next {
+        left: auto;
+        right: 0;
+    }
+
+    .menu-tab-nav .nav-pills {
+        display: block;
+    }
+
+    .menu-tab-nav .nav-pills .nav-item {
+        display: inline-block;
+        width: calc(33% - 1px);
+    }
+
+    .menu-tab-nav .nav-pills .nav-link {
+        padding: 25px 10px;
+    }
+
+    .menu-tab-nav .nav-pills .nav-link:before {
+        display: none;
+    }
+
+    .search_box {
+        top: 0;
+    }
+
+    .header_top {
+        position: relative;
+        border: 0;
+    }
+
+    .page_header {
+        padding-top: 0;
+        background: #f9f9f9;
+    }
+
+    .product-details-inner .social-links {
+        text-align: left;
+        margin-top: 10px;
+    }
+
+    .rating-position {
+        padding-top: 25px;
+    }
+
+    .review-content,
+    .review-block {
+        width: 100%;
+    }
+
+    .footer_widget h4 {
+        margin: 0 0 35px;
+    }
+
+    .wrap-reverse-md {
+        flex-wrap: wrap-reverse;
+    }
+
+    .action_btn .simple_btn {
+        min-width: 177px;
+        text-align: center;
+    }
+    .office_area .address-inner{
+        margin-bottom: 30px;
+    }
+}
+
+@media(min-width: 768px) {
+    .main_slider .owl-dots {
+        display: none;
+    }
+}
+
+@media(max-width: 991px) and (min-width: 768px) {
+    .menu_page .container {
+        max-width: 100%;
+    }
+}
+
+@media(max-width: 767px) {
+    .menu_img {
+        margin-top: 0;
+        position: relative;
+        right: 0;
+        top: 0;
+        width: 100%;
+    }
+
+    .product-summary-content {
+        margin-top: 30px;
+    }
+
+    .main_slider .item img {
+        height: 350px;
+    }
+
+    .menu_info {
+        width: 100%;
+        padding: 40px 25px;
+    }
+
+    .main_slider .item .item_caption {
+        width: 80%;
+        max-width: 100%;
+    }
+
+    .main_slider .item .item_caption h2,
+    .main_slider .item_caption .curve_title {
+        font-size: 30px;
+    }
+
+    .main_slider .item .item_caption a {
+        font-size: 13px;
+        line-height: 40px;
+        min-width: 130px;
+    }
+
+    .main_slider .owl-nav {
+        display: none;
+    }
+
+    .food_menu_title2:after,
+    .food_menu_title2:before {
+        display: none;
+    }
+
+    .menu-tab-nav .nav-pills .nav-link img {
+        max-width: 30px;
+    }
+
+    .menu-tab-nav .nav-pills .nav-link h6 {
+        /*        margin: 0;*/
+    }
+
+    .product-details-inner .product_img {
+        margin-bottom: 20px;
+    }
+
+    .product_review_left:before {
+        right: auto;
+        left: -30px;
+    }
+
+    .product_review_right {
+        padding: 20px 0;
+    }
+
+    .food_menu_title {
+        font-size: 30px;
+    }
+
+    .food_menu_title2 {
+        font-size: 18px;
+    }
+
+    .sect_pad {
+        padding: 50px 0;
+    }
+
+    .sect_pad2 {
+        padding: 50px 0 25px;
+    }
+
+    .sect_pad3 {
+        padding: 50px 0 0;
+    }
+}
+
+@media(max-width: 575px) {
+    .about_us .img_part {
+        text-align: center;
+    }
+
+    .menu-tab-nav .nav-pills .nav-item {
+        width: calc(50% - 2px);
+    }
+
+    .menu-tab-content .item_info {
+        display: none;
+    }
+
+    .offer_inner {
+        margin: 0 15px;
+    }
+    
+    .sect_mar{
+        margin: 30px 0;
+    }
+
+    .jc-xs {
+        justify-content: center;
+    }
+
+    .newsletter_area h2 {
+        font-size: 25px;
+    }
+    
+    .shopping-cart .product{
+        display: block;
+        position: relative;
+    }
+    
+    .product-line-price,
+    .product-details,
+    .product-image{
+        width: 100%;
+        float: none;
+    }
+    
+    .product .remove-product{
+        position: absolute;
+        left: -10px;
+        top: -10px;
+    }
+    
+    .product-line-price{
+        margin-top: 8px;
+        text-align: left;
+    }
+
+    .newsletter_area .form-control,
+    .newsletter_area .btn {
+        padding: 0 12px;
+        font-size: 14px;
+    }
+
+    .progress {
+        width: 150px;
+    }
+
+    .menu_area .single_item {
+        margin: 0;
+        margin-top: 20px;
+    }
+
+    .menu_area .item_details {
+        padding: 15px !important;
+    }
+
+    .menu_area .item_img,
+    .menu_area .item_details {
+        text-align: center;
+    }
+
+    .page_header_content h1,
+    .sect_title .big_title {
+        font-size: 25px;
+    }
+
+    .sect_title .curve_title,
+    .main_slider .item_caption .curve_title {
+        font-size: 30px;
+    }
+
+    .page_header_content a {
+        font-size: 14px;
+    }
+
+    .simple_btn {
+        font-size: 13px;
+        margin-top: 15px;
+        padding: 0 15px;
+        line-height: 30px;
+    }
+
+    .menu_area .sect_title .big_title {
+        padding-bottom: 15px;
+        margin-bottom: 15px;
+    }
+
+    .review-block-rate {
+        display: block;
+    }
+
+    .bg_img_left {
+        top: -22px;
+        left: -30px;
+    }
+
+    .modal-dialog {
+        margin: 100px 15px 20px;
+    }
+
+    .xs_only {
+        display: block;
+    }
+
+    .grid-container .item_img,
+    .grid-container .item_info,
+    .grid-container .item_details {
+        width: 100%;
+    }
+
+    .grid-container .single_item .d-flex {
+        justify-content: center;
+    }
+
+    .grid-container .single_item .item_info {
+        display: none;
+    }
+}
+
+@media (max-width: 460px) {
+    .main_slider .item .item_caption {
+        width: 100%;
+    }
+
+    .main_slider .item .item_caption h3,
+    .main_slider .item .item_caption h2 {
+        line-height: 1;
+    }
+
+    .main_slider .item .item_caption h2 {
+        margin: 15px 0;
+        font-size: 20px;
+    }
+}

@@ -1,0 +1,7 @@
+@media print {
+    a[href]:after {
+        content: none !important;
+    }
+}
+
+#purchase_div{margin-left:2px;}

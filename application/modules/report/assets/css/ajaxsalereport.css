@@ -1,0 +1,11 @@
+@media print {
+    a[href]:after {
+        content: none !important;
+    }
+}
+
+.ajaxsalereport .order_total{text-align: right;}
+.ajaxsalereport .total_ammount{text-align: right;}
+
+.ajaxsalereport-footer .ajaxsalereport-fo-total-sale{text-align:right;font-size:14px !Important;}
+.ajaxsalereport-footer .fo-total-sale{text-align: right;}

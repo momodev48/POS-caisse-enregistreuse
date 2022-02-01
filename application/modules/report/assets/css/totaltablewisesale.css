@@ -1,0 +1,8 @@
+@media print {
+    a[href]:after {
+        content: none !important;
+    }
+}
+
+.totaltablewisesale-foot .total_sale{text-align:right;font-size:14px !Important;}
+.totaltablewisesale-foot .totalprice{text-align: right;}

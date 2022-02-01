@@ -1,0 +1,12 @@
+ @media print {
+    a[href]:after {
+        content: none !important;
+    }
+}
+
+
+.salebydate .order-total{text-align: right;}
+.salebydate .total_ammount{text-align: right;}
+
+.salebydate-footer .total_sale{text-align:right;font-size:14px !Important;}
+.salebydate-footer .totalprice{text-align: right;}

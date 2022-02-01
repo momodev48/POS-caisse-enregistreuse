@@ -1,0 +1,20 @@
+
+ .myinfotable table th {
+     font-size: 14px;
+     padding: .25rem;
+ }
+
+ .myinfotable table td {
+     font-size: 14px;
+     padding: .25rem;
+ }
+
+ .img-circle {
+     border-radius: 50%;
+ }
+.profile_font25px{
+ font-size: 25px;
+}
+.profile_fff{
+    color:#FFF;
+}

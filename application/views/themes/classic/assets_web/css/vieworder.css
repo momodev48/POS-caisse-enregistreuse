@@ -1,0 +1,22 @@
+
+.myinfotable table th{font-size:14px; padding: .25rem;}
+.myinfotable table td{font-size:14px; padding: .25rem;}
+.img-circle {
+border-radius: 50%;
+}
+
+.vieworder_mr_b{
+     margin-bottom:20px;
+     height: 55px;
+}
+.vieworder_mr_top{
+	margin-top:10px;
+}
+.vieworder_mr_w{
+	width: 10px;
+	margin: 0px;
+	padding: 0px;
+}
+.vieworder_w_100px{
+	width:100px;
+}
